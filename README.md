@@ -1,5 +1,5 @@
 # OlasilikveistatistikGrupProjesi
-Olasılık ve istatistik dersi için korelasyon katsayısı ve kovaryans hesabı yapan program yazılmıştır.
+Olasılık ve istatistik dersi için Java dili kullanılarak korelasyon katsayısı ve kovaryans hesabı yapan program yazılmıştır.
 
 ### Kovaryans
 Matematik ve istatistikte kovaryans, iki rastgele değişken arasındaki ilişkinin bir ölçüsüdür.
